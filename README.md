@@ -14,7 +14,7 @@ A passionate blockchain developer from :india: whose most of the work and resear
 **Languages and Tools:** 
 <p>
   <a href="https://github.com/SauravKanchan">
-    <img align="right" height="170px" src="https://github-readme-stats.vercel.app/api?username=SauravKanchan&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="Saurav's GitHub stats"/>
+    <img align="right" width="55%" src="https://github-readme-stats.vercel.app/api?username=SauravKanchan&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="Saurav's GitHub stats"/>
 </a>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/ethereum/ethereum-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
@@ -28,5 +28,4 @@ A passionate blockchain developer from :india: whose most of the work and resear
   <code><img width="10%" src="https://github.com/prplx/svg-logos/blob/master/svg/svelte.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-ar21.svg"></code>
   <br />
-
 </p>
