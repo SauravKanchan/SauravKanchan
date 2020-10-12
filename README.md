@@ -6,7 +6,7 @@
 A passionate blockchain developer from :india: whose most of the work and research is focused on improving ÐApp experience. 
 
 - 🏢 I'm currently working at ![**Newfang**]("https://github.com/newfangadmin/")
-- 🎨 Checkout my [portfolio](https://farazkhan.me)
+- 🎨 Checkout my [portfolio](https://saurav.teach/)
 
 📫 How to reach me:
 - Connect on [LinkedIn](https://www.linkedin.com/in/sauravkanchan/)
