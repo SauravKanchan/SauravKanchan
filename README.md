@@ -11,7 +11,7 @@ A passionate blockchain developer from :india: whose most of the work and resear
 - 🎨 Checkout my [portfolio](https://saurav.tech/)
 
 
-
+**Languages and Tools:** 
 <p>
   <a href="https://github.com/SauravKanchan">
     <img align="right" height="170px" src="https://github-readme-stats.vercel.app/api?username=SauravKanchan&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="Saurav's GitHub stats"/>
