@@ -5,7 +5,7 @@
 
 A passionate blockchain developer from :india: whose most of the work and research is focused on improving ÐApp experience. 
 
-- 🏢 I'm currently working at ![**Newfang**]("https://github.com/newfangadmin/")
+- 🏢 I'm currently working at [Newfang](https://github.com/newfangadmin/)
 - 🎨 Checkout my [portfolio](https://saurav.tech/)
 
 📫 How to reach me:
